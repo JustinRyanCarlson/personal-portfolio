@@ -1,1 +1,11 @@
+
 /* your styles go here */
+
+#footer.section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.carousel-caption {
+    top: 150px;
+}
