@@ -3,7 +3,7 @@
 /**
  * configure here
  */
-$from = 'Justin Carlson Portfolio <JRC_portfolio@domain.com>';
+$from = 'JRC_portfolio@domain.com';
 $sendTo = 'justin.ryan.carlson@gmail.com';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
