@@ -335,15 +335,15 @@ function map() {
 
 	var image = 'img/marker.png';
 
-	// map.addMarker({
-	// 	lat: -12.043333,
-	// 	lng: -77.028333,
-	// 	icon: image/* ,
-	//  title: '',
-	//  infoWindow: {
-	//  content: '<p>HTML Content</p>'
-	//  }*/
-	// });
+	map.addMarker({
+		lat: -12.043333,
+		lng: -77.028333,
+		icon: image,
+		title: '',
+		infoWindow: {
+			content: '<p>HTML Content</p>'
+		}
+	});
 }
 
 /* =========================================
